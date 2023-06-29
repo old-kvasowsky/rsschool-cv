@@ -1,10 +1,10 @@
-#** Dmitry Kvasov**#
+# Dmitry Kvasov #
 
 ## Contacts ##
-- ** Location: ** Krasnoyarsk
-- ** Phone: ** 89835006695
-- ** Email: ** kvasov.d91@gmail.com
-- ** GitHub: ** old-kvasowsky
+- #### Location: #### Krasnoyarsk
+- #### Phone: #### 89835006695
+- #### Email: #### kvasov.d91@gmail.com
+- #### GitHub: #### old-kvasowsky
 
 ## About Me ## 
 
@@ -28,9 +28,9 @@
 
 ## Education ##
 
-** University: **  Siberian Federal University, ** Speciality: ** Financial analyst.
+#### University: ####  Siberian Federal University, #### Speciality: #### Financial analyst.
 
 ## Languages ##
 
-- ** Russian: ** native speaker.
-- ** English: ** A2 (Aimed at B2).
+- #### Russian: #### native speaker.
+- #### English: #### A2 (Aimed at B2).
