@@ -25,3 +25,12 @@
 
 - 1 year of self study
 - Sergey Dmitrievsky's course
+
+## Education ##
+
+** University: **  Siberian Federal University, ** Speciality: ** Financial analyst.
+
+## Languages ##
+
+- ** Russian: ** native speaker.
+- ** English: ** A2 (Aimed at B2).
