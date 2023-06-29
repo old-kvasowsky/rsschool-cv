@@ -20,3 +20,8 @@
 - JavaScript (newbie)
 - Git
 - Adobe Photoshop
+
+## Experience ## 
+
+- 1 year of self study
+- Sergey Dmitrievsky's course
