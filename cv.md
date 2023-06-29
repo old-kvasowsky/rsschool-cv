@@ -12,3 +12,11 @@
 - I am hard hardworking
 - Focused on results
 - I love to learn new things
+
+## Skils ##
+
+- HTML
+- CSS/SASS
+- JavaScript (newbie)
+- Git
+- Adobe Photoshop
